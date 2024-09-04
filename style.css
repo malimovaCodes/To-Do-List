@@ -9,7 +9,7 @@
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(135deg, #153677, #4e085f);
-    background-image: url(/images/background.jpg);
+    background-image: url(/To-Do-List/images/background.jpg);
     background-size: cover;
     padding: 10px;
 }
